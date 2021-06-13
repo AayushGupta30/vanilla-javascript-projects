@@ -1,1 +1,1 @@
-# 10 vanilla-javascript-projects
+#Simple apps created during learning phase. Using primarily Vanilla JS, Bootstrap etc.
